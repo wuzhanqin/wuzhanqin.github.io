@@ -1,2 +1,0 @@
-# wuzhanqin.github.io
-test
